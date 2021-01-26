@@ -1,0 +1,20 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Hello'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryuji-ito-0222/markdown-editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryuji-ito-0222/markdown-editor/issues"
+  },
+  "homepage": "https://github.com/ryuji-ito-0222/markdown-editor#readme"
+}
